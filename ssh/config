@@ -1,0 +1,5 @@
+Host vm
+	Hostname 81.70.77.99
+	user ubuntu
+	IdentityFile ~/.ssh/csapp
+	Port 22
