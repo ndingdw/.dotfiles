@@ -115,3 +115,5 @@ alias gs="git status"
 alias gc="git commit"
 alias gd="git diff"
 alias v="vim"
+
+. /usr/share/autojump/autojump.sh
