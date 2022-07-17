@@ -105,3 +105,13 @@ source $ZSH/oh-my-zsh.sh
 alias pbcopy='xsel --clipboard --input'
 alias pbpaste='xsel --clipboard --output'
 
+# personal customized alias for easy use
+alias c='clear'
+alias update='sudo apt update && sudo apt upgrade'
+alias dc='cd'
+alias ll="ls -lh"
+
+alias gs="git status"
+alias gc="git commit"
+alias gd="git diff"
+alias v="vim"
