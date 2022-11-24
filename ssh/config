@@ -1,5 +1,12 @@
 Host vm
 	Hostname 81.70.77.99
 	user ubuntu
-	IdentityFile ~/.ssh/csapp
+	IdentityFile ~/.ssh/ubuntu
 	Port 22
+Host server
+	Hostname 192.168.64.2
+	user colt
+	Port 22
+
+
+
