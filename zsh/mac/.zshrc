@@ -3,7 +3,7 @@
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-export ZSH="/Users/nding/.oh-my-zsh"
+export ZSH="/Users/colt/.oh-my-zsh"
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
@@ -128,5 +128,5 @@ alias v="vim"
 alias python="python3"
 alias pip="pip3"
 export PATH="/usr/local/opt/node@16/bin:$PATH"
-
+export PATH="/usr/local/Cellar/john-jumbo/1.9.0_1/share/john:$PATH"
 export REPO_DIR="/Users/nding/Documents/school/UCB/CS61B/sp21"
